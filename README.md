@@ -1,4 +1,4 @@
-# debugging-JavaScript
+# Debugging-JavaScript
 Freecodecamp challenges on debugging JavaScript code
 - ["Use the JavaScript Console to Check the Value of a Variable](https://github.com/Afroprogrammer/debugging-JavaScript/blob/master/use-the-javascript-console-to-check-the-value-of-a-variable.js)
 - [Understanding the Differences between the freeCodeCamp and Browser Console](https://github.com/Afroprogrammer/debugging-JavaScript/blob/master/understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
