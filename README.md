@@ -1,5 +1,9 @@
 # Debugging-JavaScript
 Freecodecamp challenges on debugging JavaScript code
+<inline>
+<img src = 'image/debugging_javascript.jpg'>
+  </inline>
+---------------------------------------
 - ["Use the JavaScript Console to Check the Value of a Variable](https://github.com/Afroprogrammer/debugging-JavaScript/blob/master/use-the-javascript-console-to-check-the-value-of-a-variable.js)
 - [Understanding the Differences between the freeCodeCamp and Browser Console](https://github.com/Afroprogrammer/debugging-JavaScript/blob/master/understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
 - [Use typeof to Check the Type of a Variable](https://github.com/Afroprogrammer/debugging-JavaScript/blob/master/use-typeof-to-check-the-type-of-a-variable.js)
